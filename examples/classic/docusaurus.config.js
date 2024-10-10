@@ -78,13 +78,13 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'Sidebar1',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Pterodactyl Installer',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Oktyzz',
             label: 'GitHub',
             position: 'right',
           },
@@ -106,16 +106,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'WhatsApp',
+                href: 'https://wa.me/6285608953677',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/x4xX36Uk',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/oktzznih',
               },
             ],
           },
@@ -133,7 +133,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} OktzDocs, Inc. Built with OktzOffc.`,
       },
       prism: {
         theme: prismThemes.github,
